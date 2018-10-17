@@ -1,3 +1,8 @@
+# Attention
+
+*This is a modified fork of nonconformist with a different repository name in order to force setuptools to look for this repo
+instead of the official nonconformist Pypi package*
+
 # nonconformist
 
 Python implementation of the conformal prediction framework [1].
